@@ -1,5 +1,5 @@
 # SolarSystem
-Simple scripts for high-school students to simulate the Solar System.
+Simple scripts for middle/high-school students to simulate the Solar System.
 
 Projectiles plots the result for a ball either dropped vertically or thrown from a height. This introduces the student to equations of motion in a uniform gravitational field. The student can experiment with different launch angles to find the optimum angle for maximum distance. This script can be used in conjunction with pracitcal experiments, such as shooting a nerf gun out of a window.
 
