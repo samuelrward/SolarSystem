@@ -1,2 +1,2 @@
 # SolarSystem
-Simple scripts for high-school student to simulate the Solar System
+Simple scripts for high-school students to simulate the Solar System
